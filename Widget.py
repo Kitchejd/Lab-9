@@ -1,8 +1,8 @@
-[{"name":"widget1","color":"blue"},
-{"name":"widget2","color":"green"},
-{"name":"widget3","color":"black"},
-{"name":"widgetX","color":"blue"}]
-print("Widget1 is blue")
-print("Widget2 is green")
-print("Widget3 is black")
-print("WidgetX is blue")
+widgetX = "name widgetX color blue"
+widget1 = "name widget1 color blue"
+widget2 = "name widget2 color green"
+widget3 = "name widget3 color black"
+print(widget1)
+print(widget2)
+print(widget3)
+print(widgetX)
